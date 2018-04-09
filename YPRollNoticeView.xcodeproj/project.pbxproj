@@ -12,6 +12,7 @@
 		B5C90BF1207B58B400002952 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5C90BEF207B58B400002952 /* Main.storyboard */; };
 		B5C90BF3207B58B400002952 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5C90BF2207B58B400002952 /* Assets.xcassets */; };
 		B5C90BF6207B58B400002952 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5C90BF4207B58B400002952 /* LaunchScreen.storyboard */; };
+		B5C90BFE207B58E700002952 /* YPRollNoticeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C90BFD207B58E700002952 /* YPRollNoticeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B5C90BF2207B58B400002952 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5C90BF5207B58B400002952 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5C90BF7207B58B400002952 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5C90BFD207B58E700002952 /* YPRollNoticeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YPRollNoticeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B5C90BEB207B58B400002952 /* AppDelegate.swift */,
 				B5C90BED207B58B400002952 /* ViewController.swift */,
+				B5C90BFD207B58E700002952 /* YPRollNoticeView.swift */,
 				B5C90BEF207B58B400002952 /* Main.storyboard */,
 				B5C90BF2207B58B400002952 /* Assets.xcassets */,
 				B5C90BF4207B58B400002952 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5C90BFE207B58E700002952 /* YPRollNoticeView.swift in Sources */,
 				B5C90BEE207B58B400002952 /* ViewController.swift in Sources */,
 				B5C90BEC207B58B400002952 /* AppDelegate.swift in Sources */,
 			);
